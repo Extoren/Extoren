@@ -6,7 +6,7 @@
 
 So, here's to the journey ahead - one filled with code, creativity, and endless possibilities! 🌟🎮👾👨‍💻
 
-Website: https://extoren.github.io/Portfolio-3/
+Website: OBS!(Norwegian only) https://extoren.github.io/Portfolio-3/
 
 
 ## 🌐 Socials:
