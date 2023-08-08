@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Greetings, Extoren!<br>👀 I've got my eyes set on Gaming, Programming, and BS<br>🌱 Presently, I'm diving into React, Javascript, and Azure<br>My prime programming fascinations encompass Deep Learning, as well as front- and back-end development 🚀
 
+So, here's to the journey ahead - one filled with code, creativity, and endless possibilities! 🌟🎮👾👨‍💻
+
 
 ## 🌐 Socials:
 ---
