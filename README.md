@@ -6,8 +6,8 @@
 
 So, here's to the journey ahead - one filled with code, creativity, and endless possibilities! 🌟🎮👾👨‍💻
 
-Websites:
-Norsk: https://extoren.github.io/Portfolio-3/
+### Websites: <br>
+Norsk: https://extoren.github.io/Portfolio-3/ <br>
 English: https://portfoli.up.railway.app/
 
 
