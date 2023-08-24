@@ -24,6 +24,7 @@ $\color{yellow}{\text{↳}}$ $\color{yellow}{\text{extoren}}$
 ## 📄 Courses:
 - AZ-900: Microsoft Azure Fundamentals <br>
 - Microsoft Power Platform: Power Automate and Power apps
+  
 
 # 💻 Tech Stack:
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
