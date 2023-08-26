@@ -19,8 +19,6 @@ English: https://portfoli.up.railway.app/
 $\color{yellow}{\text{↳}}$ $\color{yellow}{\text{extoren}}$
 
 
-
-
 ## 📄 Courses:
 - AZ-900: Microsoft Azure Fundamentals <br>
 - Microsoft Power Platform: Power Automate and Power apps
