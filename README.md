@@ -20,8 +20,7 @@ So, here's to the journey ahead - one filled with code, creativity, and endless 
 $\color{yellow}{\text{↳}}$ $\color{yellow}{\text{extoren}}$
 
 ### Websites: <br>
-Norsk: https://extoren.github.io/Portfolio-3/ <br>
-English: https://portfoli.up.railway.app/
+https://extoren.github.io/Portfolio-3/
 
 
 
