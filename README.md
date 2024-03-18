@@ -23,7 +23,6 @@ $\color{yellow}{\text{↳}}$ $\color{yellow}{\text{extoren}}$
 https://extoren.github.io/Portfolio-3/
 
 
-
 ## 📄 Courses:
 - AZ-900: Microsoft Azure Fundamentals <br>
 - PL-900: Power Automate and Power apps
